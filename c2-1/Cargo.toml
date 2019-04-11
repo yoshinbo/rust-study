@@ -1,0 +1,7 @@
+[package]
+name = "c2-1"
+version = "0.1.0"
+authors = ["yoshinbo <yoshinbo@gmail.com>"]
+edition = "2018"
+
+[dependencies]
